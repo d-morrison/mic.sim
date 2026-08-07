@@ -1075,7 +1075,7 @@ out_3 = fit_EM(
 #> [1] "surv"
 #> attr(,"fixed_side")
 #> [1] "RC"
-#> -375.21138838744
+#> -375.211388387439
 #> Stopped on combined LL and parameters
 #> fold 4
 #> starting iteration number 1
@@ -3622,7 +3622,7 @@ out_3 = fit_EM(
 #> [1] "surv"
 #> attr(,"fixed_side")
 #> [1] "RC"
-#> -357.941934158481
+#> -357.941934158482
 #> Warning in EM_algorithm_reduced(fixed_side = fixed_side, extra_row = extra_row,
 #> : Log Likelihood decreased
 #> starting iteration number 6
@@ -3694,7 +3694,7 @@ out_3 = fit_EM(
 #> [1] "surv"
 #> attr(,"fixed_side")
 #> [1] "RC"
-#> -357.941940225714
+#> -357.941940225715
 #> Warning in EM_algorithm_reduced(fixed_side = fixed_side, extra_row = extra_row,
 #> : Log Likelihood decreased
 #> Stopped on combined LL and parameters
@@ -4046,7 +4046,7 @@ out_3 = fit_EM(
 #> [1] "surv"
 #> attr(,"fixed_side")
 #> [1] "RC"
-#> -369.894850421614
+#> -369.894850421613
 #> Warning in EM_algorithm_reduced(fixed_side = fixed_side, extra_row = extra_row,
 #> : Log Likelihood decreased
 #> starting iteration number 4
